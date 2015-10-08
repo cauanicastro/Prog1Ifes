@@ -8,6 +8,10 @@ __email__ = "cauani.castro@hotmail.com"
 __status__ = "Examination program"
 
 def ExibeEstatisticas():
+    print("##################################")
+    print("         REPORT DA FABRICA")
+    print("##################################")
+    print("Lista de operarios:\n")
     print(listaOperarios)
     print("A folha mensal de pagamento da fabrica e de: R$ %.2f" % totalFolhaPagamento)
     print("A fabricacao mensal foi de %d pecas" % totalPecasFabricadas)
@@ -71,7 +75,7 @@ def ProcessaOperario(numero, pecas, sexo):
     totalPecasFabricadas += pecas
 
     #verifica maior salario
-    if operarioMaiorSalario >= salario:
+    if operarioMaiorSalario <= salario:
         operarioMaiorSalarioNumero = numero
         operarioMaiorSalario = salario
 
