@@ -8,7 +8,6 @@ __email__ = "cauani.castro@hotmail.com"
 __status__ = "Examination program"
 
 def calculaRaiz(numero, aproximacoes):
-    lst = ""
     raiz = 0
     for i in range(aproximacoes):
         if (i == 0):
