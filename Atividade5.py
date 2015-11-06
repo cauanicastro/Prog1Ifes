@@ -12,6 +12,7 @@ def f(x):
     #funcao definida na questao
     return 1/(1+(x**2))
 
+
 def calculaPi(n):
     #n e a quantidade de trapezios
     a = 0. #intervalo inferior
@@ -47,9 +48,6 @@ def main():
     print("#####################################")
     return True
 
+
 if __name__ == '__main__':
     main()
-
-
-
-
