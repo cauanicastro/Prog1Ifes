@@ -63,10 +63,10 @@ def ProcessaOperario(numero, pecas, sexo):
     salario = salarioMinimo
     classe = "A"
     if pecas > 30 and pecas <= 35:
-        salario += (pecas - 30) + ((3 * salarioMinimo) / 100.00)
+        salario += (pecas - 30) * ((3 * salarioMinimo) / 100.00)
         classe = "B"
     elif pecas > 35:
-        salario += (pecas - 30) + ((5 * salarioMinimo) / 100.00)
+        salario += (pecas - 30) * ((5 * salarioMinimo) / 100.00)
         classe = "C"
 
     #atualiza lista e total de pg e pecas fabricadas
