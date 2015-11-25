@@ -1,0 +1,220 @@
+Jurema Sebastiao Fragado, 0, 3, 4, 4, 5, 4, 1, 1, 3, 4
+Egeu Fragoso Massa, 0, 4, 3, 3, 2, 5, 5, 0, 5, 2
+Macau Pindamonhangaba Feijo, 4, 3, 5, 0, 4, 4, 2, 0, 5, 5
+Ximba Fragoso Ukulele, 4, 3, 1, 0, 5, 4, 5, 1, 3, 2
+Uco Pindamonhangaba Massa, 3, 3, 4, 0, 4, 0, 3, 0, 1, 0
+Joel Pindamonhangaba , 0, 5, 1, 3, 5, 0, 5, 4, 5, 2
+Mapplesyrup  , 0, 0, 4, 1, 1, 4, 2, 0, 5, 3
+Ximba Feijo Filho, 1, 1, 4, 2, 3, 5, 3, 1, 5, 0
+Joel Filho , 1, 0, 0, 4, 0, 0, 2, 0, 2, 0
+Joel  Marcos, 0, 1, 5, 1, 1, 2, 1, 1, 3, 2
+Manteiga  Massa, 3, 0, 1, 5, 5, 5, 5, 4, 2, 5
+Biscoito Pindamonhangaba Feijo, 2, 4, 0, 3, 2, 0, 5, 5, 0, 0
+Biscoito Fragado Amoeba, 4, 2, 2, 5, 2, 5, 3, 1, 0, 1
+Joao Ukulele Pindamonhangaba, 2, 0, 1, 1, 4, 0, 0, 1, 3, 0
+Ea  Feijo, 5, 1, 1, 2, 0, 0, 1, 2, 0, 0
+Tuco Sebastiao Snow, 0, 3, 4, 3, 2, 0, 0, 5, 3, 3
+Joel Fragoso Fragoso, 0, 4, 1, 5, 4, 0, 5, 5, 4, 0
+Ma Feijo Fragoso, 0, 5, 4, 4, 1, 3, 1, 5, 3, 2
+Macau Massa Ukulele, 5, 3, 1, 2, 4, 2, 3, 1, 4, 4
+Gago  , 3, 2, 3, 4, 0, 3, 5, 0, 3, 2
+Ma Sebastiao Feijo, 1, 2, 0, 2, 1, 0, 5, 5, 2, 1
+Ze Fragoso , 0, 4, 0, 0, 3, 5, 5, 2, 4, 0
+Macau Fragoso Sebastiao, 5, 2, 3, 2, 1, 4, 2, 1, 4, 2
+Muco Pindamonhangaba Marcos, 1, 4, 1, 0, 5, 3, 1, 2, 0, 4
+Ea Feijo Ukulele, 2, 0, 1, 5, 1, 4, 4, 3, 0, 0
+Ze Da Silva Marcos, 1, 2, 3, 2, 0, 5, 5, 5, 4, 4
+Mapplesyrup Da Silva Amoeba, 3, 4, 3, 3, 3, 1, 0, 2, 1, 5
+Muco Fragoso Da Silva, 3, 4, 0, 4, 3, 5, 0, 0, 5, 0
+Zuco Da Silva Ukulele, 0, 1, 1, 3, 1, 3, 0, 3, 1, 1
+Ze Fragado Da Silva, 5, 0, 5, 5, 2, 0, 0, 5, 0, 3
+Arroz Pindamonhangaba Feijo, 0, 3, 5, 1, 3, 5, 1, 0, 4, 2
+Muco Pindamonhangaba Sauro, 5, 4, 1, 5, 0, 1, 4, 4, 5, 1
+Joel Sebastiao Sebastiao, 2, 3, 5, 3, 0, 0, 4, 4, 5, 5
+Ximba Snow Sebastiao, 3, 3, 5, 3, 4, 4, 5, 0, 2, 0
+Jurema Sebastiao Sebastiao, 0, 4, 2, 1, 0, 0, 2, 4, 0, 5
+Ze Ukulele Massa, 2, 2, 2, 1, 4, 2, 0, 1, 4, 4
+Gago Feijo Snow, 3, 0, 3, 0, 3, 4, 3, 5, 5, 2
+Porco Fragado Feijo, 4, 4, 1, 0, 3, 4, 5, 4, 0, 5
+Tuco Fragado Sebastiao, 0, 5, 4, 3, 2, 5, 0, 5, 2, 2
+Ximba Massa Fragoso, 2, 2, 5, 2, 0, 1, 3, 5, 1, 3
+Muco Marcos Fragado, 3, 5, 5, 1, 3, 2, 2, 3, 5, 4
+Joao Sebastiao Da Silva, 4, 4, 5, 3, 0, 5, 4, 1, 0, 5
+Joao  Amoeba, 3, 2, 2, 5, 1, 1, 3, 4, 2, 3
+Ea Da Silva , 0, 5, 3, 0, 0, 2, 3, 2, 2, 4
+Jurema Filho Pindamonhangaba, 5, 2, 1, 0, 1, 0, 2, 2, 3, 5
+Gago Da Silva Filho, 1, 0, 3, 2, 4, 3, 2, 0, 5, 0
+Manteiga Fragoso Da Silva, 3, 3, 5, 3, 4, 3, 1, 4, 2, 0
+Arroz  Pindamonhangaba, 4, 4, 2, 2, 2, 1, 5, 5, 3, 2
+Tuco Feijo , 3, 0, 3, 4, 3, 5, 1, 0, 0, 5
+Mapplesyrup Sebastiao Sebastiao, 1, 5, 1, 5, 1, 1, 3, 1, 0, 1
+Porco Sauro Fragado, 0, 5, 2, 4, 0, 2, 4, 4, 0, 0
+Joao Filho Feijo, 4, 2, 2, 1, 5, 0, 5, 5, 1, 4
+Tuco Filho Ukulele, 2, 4, 1, 2, 2, 1, 1, 4, 3, 4
+Joel Fragado Marcos, 2, 2, 2, 5, 4, 2, 1, 0, 4, 3
+Ximba Amoeba Feijo, 2, 3, 4, 5, 3, 4, 4, 3, 4, 1
+Mapplesyrup Sauro Marcos, 1, 0, 3, 1, 5, 0, 2, 5, 3, 1
+Joel Amoeba Sauro, 1, 2, 1, 3, 1, 3, 1, 4, 3, 3
+Egeu  Sebastiao, 3, 2, 4, 2, 2, 0, 3, 1, 4, 3
+Faca Fragoso Sebastiao, 3, 0, 3, 3, 3, 2, 5, 5, 3, 3
+Porco Amoeba , 4, 3, 4, 2, 2, 3, 4, 4, 2, 2
+Porco Feijo Sauro, 5, 3, 4, 5, 0, 5, 1, 2, 4, 2
+Hotdog Fragado Feijo, 2, 3, 0, 0, 1, 5, 5, 0, 4, 3
+Tuco Marcos Sauro, 5, 0, 4, 2, 5, 2, 2, 2, 1, 2
+Joel Filho Da Silva, 3, 5, 2, 4, 5, 1, 5, 2, 2, 2
+Ximba Pindamonhangaba , 2, 2, 1, 5, 0, 1, 5, 0, 3, 5
+Arroz Pindamonhangaba Amoeba, 5, 2, 2, 0, 4, 3, 5, 3, 0, 1
+Joao Ukulele Fragoso, 3, 0, 3, 5, 5, 5, 5, 0, 2, 3
+Ze Marcos Sauro, 1, 0, 2, 1, 0, 5, 1, 0, 4, 4
+Mapplesyrup Fragoso Pindamonhangaba, 5, 0, 1, 3, 1, 4, 4, 4, 0, 2
+Muco Massa Sebastiao, 3, 1, 4, 3, 4, 5, 3, 4, 2, 2
+Macau Filho Marcos, 2, 0, 2, 2, 3, 0, 2, 2, 2, 1
+Jurema Ukulele Ukulele, 2, 3, 2, 4, 1, 1, 1, 5, 3, 4
+Egeu Pindamonhangaba Pindamonhangaba, 1, 0, 5, 5, 2, 1, 2, 1, 0, 5
+Ea Fragoso Sebastiao, 1, 5, 0, 4, 1, 4, 3, 1, 4, 3
+Jurema Ukulele , 5, 2, 5, 5, 1, 0, 0, 2, 3, 3
+Ma Snow Feijo, 5, 5, 0, 4, 2, 5, 2, 0, 0, 5
+Zuco Ukulele Ukulele, 2, 2, 2, 1, 5, 5, 4, 1, 2, 5
+Joao Amoeba Sebastiao, 3, 2, 4, 0, 1, 4, 4, 4, 3, 5
+Arroz  Massa, 2, 0, 1, 0, 4, 0, 3, 0, 2, 1
+Joel  Fragoso, 3, 3, 0, 1, 1, 5, 1, 4, 1, 2
+Porco Feijo Da Silva, 4, 4, 5, 1, 2, 1, 2, 0, 2, 3
+Muco Amoeba Marcos, 2, 0, 0, 1, 0, 1, 2, 1, 4, 5
+Ma Fragado Massa, 4, 3, 1, 3, 1, 4, 5, 2, 3, 3
+Joel Amoeba Da Silva, 4, 2, 1, 0, 4, 0, 1, 1, 4, 5
+Muco Fragado Pindamonhangaba, 5, 5, 0, 2, 5, 2, 4, 0, 5, 1
+Arroz Filho Feijo, 0, 3, 3, 3, 3, 3, 0, 4, 5, 4
+Jurema Da Silva Feijo, 3, 5, 0, 0, 2, 3, 3, 5, 3, 2
+Arroz Sebastiao Sauro, 1, 5, 3, 5, 3, 2, 3, 2, 5, 0
+Zuco Fragado Snow, 4, 5, 3, 2, 1, 4, 2, 5, 5, 1
+Ximba Marcos Ukulele, 0, 2, 2, 3, 4, 0, 0, 4, 5, 5
+Manteiga Da Silva Feijo, 0, 5, 1, 3, 2, 2, 0, 4, 4, 3
+Manteiga Filho Fragoso, 5, 3, 3, 4, 5, 4, 3, 0, 3, 2
+Ze Fragoso Filho, 1, 2, 3, 1, 3, 5, 3, 3, 5, 5
+Tuco Marcos , 1, 5, 2, 5, 2, 2, 2, 5, 1, 3
+Jurema Pindamonhangaba , 5, 5, 1, 5, 5, 1, 1, 5, 3, 4
+Jurema  Fragado, 3, 2, 3, 5, 4, 4, 3, 1, 5, 3
+Jurema Massa Fragoso, 2, 2, 2, 5, 0, 2, 4, 0, 4, 3
+Mapplesyrup Filho Fragoso, 1, 3, 5, 0, 4, 3, 1, 0, 5, 3
+Joao Feijo Feijo, 1, 3, 2, 5, 0, 3, 2, 1, 4, 0
+Ma Filho Massa, 0, 3, 0, 1, 5, 1, 4, 0, 2, 3
+Tuco Ukulele Feijo, 5, 5, 0, 5, 1, 5, 2, 2, 2, 5
+Hotdog Fragado Sebastiao, 4, 2, 3, 3, 1, 2, 5, 4, 0, 3
+Mapplesyrup Fragado Da Silva, 1, 1, 1, 4, 1, 2, 4, 1, 5, 4
+Uco  Filho, 1, 2, 4, 0, 0, 5, 4, 4, 1, 2
+Ea Snow Fragado, 3, 3, 1, 1, 1, 3, 4, 5, 1, 3
+Manteiga Fragado Fragoso, 5, 5, 4, 1, 4, 3, 3, 2, 1, 2
+Ximba  Fragoso, 4, 1, 5, 3, 1, 4, 0, 4, 3, 5
+Egeu  Da Silva, 2, 2, 3, 2, 1, 1, 5, 1, 0, 3
+Jurema Fragoso Sauro, 3, 2, 3, 3, 4, 3, 4, 3, 1, 4
+Ze  Fragoso, 2, 2, 1, 1, 1, 5, 4, 0, 4, 1
+Ma Massa Amoeba, 4, 0, 3, 2, 4, 0, 3, 2, 3, 5
+Macau Feijo Filho, 2, 1, 3, 0, 4, 3, 4, 3, 1, 2
+Ximba Fragoso Feijo, 1, 5, 0, 5, 1, 5, 2, 4, 4, 0
+Ze  Sebastiao, 1, 5, 2, 1, 3, 0, 5, 1, 4, 1
+Zuco Filho Amoeba, 2, 4, 1, 1, 1, 1, 2, 1, 0, 2
+Ma  Filho, 1, 4, 5, 4, 5, 2, 4, 2, 3, 4
+Joao Marcos , 1, 0, 5, 3, 4, 0, 4, 0, 5, 0
+Ma Da Silva Filho, 0, 1, 0, 1, 4, 5, 3, 2, 4, 0
+Ze Pindamonhangaba Sauro, 2, 5, 0, 2, 3, 2, 3, 0, 3, 0
+Uco Fragado Ukulele, 3, 3, 0, 3, 3, 5, 1, 0, 1, 4
+Joao Fragoso Sebastiao, 1, 1, 0, 2, 4, 0, 3, 2, 2, 1
+Egeu Sebastiao , 4, 4, 4, 3, 3, 5, 4, 3, 2, 3
+Ximba Pindamonhangaba Ukulele, 2, 3, 3, 3, 5, 0, 4, 0, 0, 4
+Joel  Pindamonhangaba, 3, 2, 2, 1, 0, 5, 1, 0, 3, 1
+Egeu  Amoeba, 5, 4, 2, 1, 2, 0, 5, 4, 2, 4
+Porco Amoeba Feijo, 4, 4, 3, 0, 1, 4, 5, 1, 3, 0
+Ea  Ukulele, 0, 0, 5, 0, 4, 1, 3, 3, 3, 2
+Zuco Massa Sauro, 2, 5, 4, 0, 2, 4, 4, 3, 2, 0
+Ze  Ukulele, 0, 3, 4, 3, 4, 0, 4, 5, 5, 5
+Egeu Amoeba Fragoso, 2, 5, 4, 2, 4, 1, 4, 5, 2, 4
+Ea Snow Sauro, 1, 5, 1, 3, 2, 3, 3, 3, 5, 2
+Joao Massa , 1, 1, 5, 3, 0, 2, 1, 3, 5, 5
+Faca Feijo Pindamonhangaba, 1, 2, 2, 2, 5, 5, 1, 5, 0, 3
+Ea Amoeba Sauro, 5, 5, 1, 5, 2, 0, 1, 4, 0, 4
+Zuco Marcos Snow, 0, 5, 4, 5, 0, 5, 5, 3, 3, 5
+Hotdog Pindamonhangaba Fragado, 4, 2, 1, 2, 0, 5, 1, 2, 5, 5
+Ma Marcos , 1, 0, 3, 5, 3, 1, 5, 1, 4, 4
+Uco Fragado Filho, 5, 2, 5, 3, 4, 4, 4, 5, 0, 5
+Arroz Fragado Snow, 3, 0, 1, 1, 0, 0, 2, 4, 2, 1
+Uco Da Silva Da Silva, 5, 3, 1, 3, 5, 4, 0, 2, 5, 1
+Joao Amoeba Da Silva, 4, 5, 1, 4, 2, 0, 3, 3, 4, 1
+Egeu Fragoso Sauro, 5, 1, 2, 3, 3, 3, 0, 4, 3, 4
+Biscoito Fragoso Filho, 0, 3, 3, 1, 4, 0, 3, 2, 4, 2
+Porco Sebastiao Ukulele, 0, 2, 1, 0, 4, 2, 5, 3, 2, 5
+Joao Fragado Da Silva, 4, 0, 4, 3, 5, 4, 3, 2, 0, 1
+Joel Snow Filho, 5, 3, 5, 0, 3, 0, 2, 3, 2, 1
+Ma Massa Da Silva, 3, 5, 4, 0, 1, 2, 3, 5, 2, 0
+Joel Sauro Da Silva, 5, 3, 0, 0, 4, 0, 3, 4, 3, 4
+Gago Sebastiao Snow, 4, 5, 2, 5, 1, 3, 4, 2, 5, 1
+Faca Amoeba , 1, 2, 3, 1, 3, 4, 4, 0, 4, 2
+Joao Pindamonhangaba , 4, 5, 2, 5, 2, 0, 5, 3, 0, 2
+Uco Fragado Amoeba, 3, 0, 3, 5, 2, 1, 5, 1, 1, 1
+Jurema Da Silva Fragoso, 1, 2, 3, 5, 1, 2, 1, 0, 0, 0
+Faca Amoeba Fragado, 3, 5, 5, 3, 5, 2, 0, 2, 1, 1
+Biscoito  Fragoso, 5, 0, 1, 3, 5, 1, 4, 4, 0, 3
+Biscoito Filho Filho, 2, 4, 5, 5, 5, 2, 2, 1, 1, 4
+Zuco Massa Fragoso, 3, 0, 3, 3, 4, 5, 1, 3, 0, 2
+Ma Sauro Massa, 5, 2, 1, 5, 4, 4, 5, 0, 1, 4
+Mapplesyrup  Filho, 2, 2, 2, 1, 1, 4, 4, 5, 0, 2
+Ze Pindamonhangaba Feijo, 4, 2, 5, 3, 4, 2, 1, 4, 4, 0
+Gago Ukulele Sauro, 3, 3, 2, 2, 1, 1, 1, 0, 5, 2
+Jurema Fragado Fragoso, 2, 0, 5, 1, 2, 4, 4, 2, 5, 5
+Porco Ukulele Sauro, 5, 5, 1, 3, 2, 3, 5, 4, 1, 1
+Faca Sauro Sebastiao, 4, 1, 0, 2, 0, 5, 3, 0, 5, 1
+Manteiga Pindamonhangaba Massa, 5, 4, 5, 4, 5, 2, 5, 5, 0, 3
+Ma Massa Fragoso, 2, 2, 2, 2, 3, 4, 5, 2, 5, 5
+Egeu  Filho, 3, 4, 5, 4, 1, 0, 3, 1, 0, 0
+Ea Sauro Fragado, 5, 1, 4, 5, 2, 2, 0, 4, 2, 1
+Mapplesyrup Amoeba Sauro, 0, 2, 2, 3, 2, 5, 3, 4, 4, 5
+Arroz Marcos Marcos, 1, 0, 0, 1, 5, 4, 4, 2, 0, 5
+Zuco Feijo Snow, 5, 1, 1, 2, 0, 1, 0, 1, 5, 3
+Hotdog Sauro Pindamonhangaba, 4, 5, 1, 1, 4, 2, 1, 5, 4, 4
+Uco Amoeba Fragado, 3, 5, 3, 4, 1, 3, 2, 4, 4, 4
+Joao Fragoso Snow, 3, 4, 2, 4, 5, 5, 2, 5, 4, 3
+Joao Massa Filho, 3, 2, 1, 1, 1, 3, 2, 2, 4, 4
+Mapplesyrup Sebastiao Ukulele, 1, 1, 4, 3, 4, 2, 4, 0, 4, 4
+Tuco Sebastiao Feijo, 0, 5, 0, 3, 3, 5, 5, 3, 2, 3
+Hotdog Feijo Pindamonhangaba, 0, 4, 3, 2, 4, 2, 4, 0, 0, 0
+Ze Sebastiao Ukulele, 2, 3, 2, 5, 5, 1, 3, 3, 4, 2
+Joel Amoeba Snow, 0, 5, 1, 3, 3, 4, 1, 0, 5, 3
+Arroz Amoeba Marcos, 4, 4, 2, 2, 2, 3, 1, 5, 3, 2
+Mapplesyrup Da Silva Ukulele, 1, 4, 5, 4, 1, 2, 5, 3, 3, 5
+Ma Marcos Pindamonhangaba, 3, 1, 4, 2, 0, 5, 2, 4, 2, 3
+Joel Feijo Filho, 5, 2, 5, 4, 1, 4, 4, 4, 0, 1
+Ze Da Silva Sebastiao, 3, 4, 4, 5, 3, 0, 3, 5, 4, 2
+Porco Sebastiao , 5, 2, 5, 5, 5, 2, 3, 4, 2, 5
+Porco Sauro Sebastiao, 2, 1, 2, 2, 3, 0, 5, 0, 3, 2
+Muco  Amoeba, 3, 5, 0, 2, 3, 0, 5, 5, 5, 5
+Muco Massa Pindamonhangaba, 3, 0, 1, 3, 5, 0, 3, 2, 2, 5
+Hotdog Da Silva , 2, 0, 1, 2, 0, 3, 4, 0, 3, 3
+Manteiga Ukulele , 3, 2, 5, 2, 4, 5, 1, 1, 5, 4
+Mapplesyrup Ukulele Sauro, 1, 2, 2, 0, 1, 4, 4, 5, 0, 1
+Manteiga Massa Sebastiao, 4, 3, 0, 5, 5, 5, 2, 0, 1, 4
+Jurema Sauro Da Silva, 4, 0, 5, 5, 3, 4, 0, 2, 0, 0
+Faca Pindamonhangaba Feijo, 4, 4, 4, 1, 5, 4, 0, 1, 3, 5
+Egeu Filho Ukulele, 3, 2, 1, 3, 3, 5, 5, 3, 0, 5
+Macau Massa Snow, 0, 1, 4, 2, 5, 0, 3, 1, 3, 1
+Faca Snow Pindamonhangaba, 2, 2, 4, 5, 5, 5, 5, 0, 4, 5
+Joao Sebastiao Ukulele, 2, 1, 0, 0, 5, 2, 1, 2, 0, 3
+Manteiga Massa Feijo, 4, 0, 4, 5, 5, 2, 3, 5, 0, 0
+Jurema Fragado Sebastiao, 2, 4, 4, 0, 1, 1, 5, 3, 1, 0
+Gago Marcos Fragoso, 0, 0, 4, 3, 3, 0, 4, 2, 3, 5
+Muco Filho Snow, 2, 1, 1, 0, 4, 4, 3, 1, 5, 2
+Macau Filho Da Silva, 4, 0, 1, 0, 0, 5, 1, 3, 4, 1
+Ze Massa Amoeba, 3, 4, 0, 1, 0, 4, 4, 5, 1, 0
+Arroz  Da Silva, 0, 5, 2, 1, 2, 1, 5, 5, 3, 1
+Uco Filho Snow, 3, 4, 2, 0, 2, 5, 0, 1, 0, 0
+Porco Filho Amoeba, 1, 4, 3, 2, 2, 3, 0, 2, 5, 1
+Uco Pindamonhangaba Sauro, 4, 3, 3, 5, 4, 1, 1, 4, 3, 0
+Mapplesyrup Marcos Snow, 3, 4, 2, 3, 0, 5, 4, 2, 3, 1
+Egeu Sauro Da Silva, 5, 1, 5, 4, 1, 4, 5, 4, 4, 0
+Manteiga Filho Ukulele, 5, 0, 0, 0, 4, 4, 0, 1, 2, 5
+Muco Fragoso Fragoso, 4, 1, 4, 1, 0, 3, 1, 5, 4, 5
+Joel Amoeba Fragoso, 1, 0, 5, 1, 0, 0, 3, 3, 0, 4
+Muco Sebastiao Da Silva, 4, 0, 3, 5, 4, 1, 3, 0, 2, 2
+Egeu Sauro Massa, 5, 4, 5, 0, 1, 0, 3, 3, 2, 2
+Egeu Fragado Ukulele, 1, 5, 2, 0, 0, 0, 0, 0, 5, 2
+Mapplesyrup Amoeba Da Silva, 4, 3, 1, 1, 3, 1, 4, 4, 4, 5
+Porco Da Silva Da Silva, 0, 5, 3, 0, 2, 3, 0, 2, 1, 5
+Egeu Da Silva Fragado, 3, 3, 0, 1, 1, 4, 4, 5, 5, 0
