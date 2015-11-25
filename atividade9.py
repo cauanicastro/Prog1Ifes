@@ -19,7 +19,16 @@ def retornaTamanhoLista(lista):
     return cont
 
 
-# Caso n possa usar funcoes basicas de listas, remove um unico elemento da lista. Caso tenha mais de um, remove o primeiro encontrado (esquerda-direita)
+# Remove todos os elementos el de uma lista
+def removeElementosLista(lista, el):
+    nLista = []
+    for e in lista:
+        if e != el:
+            nLista.append(e)
+    return nLista
+
+
+# Caso n possa usar funcoes basicas de listas, remove um elemento da lista na posicao pos.
 def removeElementoLista(lista, pos):
     cont = 0
     nLista = []
@@ -39,29 +48,23 @@ def retornaIndexLista(lista, elemento):
         cont += 1
 
 
-# Retorna uma lista com a quantidade de elementos duplicados encontrada e a lista como ultimo elemento (prolog-style recursion pattern)
-def removeDuplicados(lista, elemento):
-    aux = removeElementoLista(lista, retornaIndexLista(lista, elemento))
-    if aux == lista:
-        return [lista]
-    return [1] + removeDuplicados(aux, elemento)
-
-
 # Caso n possa usar funcoes basicas de listas, ordena a lista
-def ordenaLista(lista, crescente = True):
+def ordenaListaSemDuplicados(lista, crescente = True):
     if retornaTamanhoLista(lista) == 0:
         return []
     minmax = lista[0]
-    index = 0
+    vezesEncontrado = 0
     for i in lista:
-        if crescente and i < minmax or not crescente and i > minmax:
-            minmax = i
-            index = retornaIndexLista(lista, minmax)
-    aux = removeDuplicados(lista, minmax)
-    auxCount = retornaTamanhoLista(aux)
-    if auxCount > 2:
-        print("O numero %d se repete %d vezes" % (minmax, auxCount - 1))
-    return [minmax] + ordenaLista(aux[auxCount - 1], crescente)
+        if crescente and i <= minmax or not crescente and i >= minmax:
+            if i != minmax:
+                minmax = i
+                vezesEncontrado = 1
+            else:
+                vezesEncontrado += 1
+    aux = removeElementosLista(lista, minmax)
+    if vezesEncontrado > 1:
+        print("O numero %d se repete %d vezes" % (minmax, vezesEncontrado))
+    return [minmax] + ordenaListaSemDuplicados(aux, crescente)
 
 
 def recebeDados(A):
@@ -82,7 +85,7 @@ def main():
         if not lista:
             break
         print("\nO conjunto original e:", lista)
-        print("O conjunto ordenado e sem duplicatas e:", ordenaLista(lista))
+        print("O conjunto ordenado e sem duplicatas e:", ordenaListaSemDuplicados(lista))
         print("\n\n")
     print("\n\n######################################\nFim do programa.")
     return 1
