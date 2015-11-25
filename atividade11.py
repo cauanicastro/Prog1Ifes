@@ -35,9 +35,10 @@ def geraListaCenso(n):
     return ["%s %s %s, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d" % (random.sample(pessoas, 1)[0], random.sample(sobrenomes, 1)[0], random.sample(sobrenomes, 1)[0], random.randint(0, 5), random.randint(0, 5), random.randint(0, 5), random.randint(0, 5), random.randint(0, 5), random.randint(0, 5), random.randint(0, 5), random.randint(0, 5), random.randint(0, 5), random.randint(0, 5)) for _ in range(n)]
 
 
-def criarCSV(arquivo):
+def criarCSV(arquivo, lista):
     with open(arquivo, 'w') as f:
-        f.write('\n'.join(geraListaCenso(220)))
+        f.write('\n'.join(lista))
+    print("\n---info: Arquivo %s foi criado com sucesso. ---\n" % arquivo)
 
 
 def lerArquivo(arquivo):
@@ -45,19 +46,23 @@ def lerArquivo(arquivo):
 
 
 def imprimeQuestionario(lista):
+    listaRetorno = []
     for p in range(retornaTamanhoLista(lista)):
-        print("\nPergunta de numero %d ---" % p)
+        listaRetorno.append("\nPergunta de numero %d ---" % p)
         for v in range(retornaTamanhoLista(lista[p])):
-            print("Opcao %d foi selecionada por %d pessoas" % (v, lista[p][v]))
+            listaRetorno.append("Opcao %d foi selecionada por %d pessoas" % (v, lista[p][v]))
+    return listaRetorno
 
 
 def main():
     print("Este programa ira gerar um arquivo csv com 220 entradas de nomes de pessoas e suas respectivas respostas, de 1 a 5, para 10 perguntas distintas. Logo apos ele ira carregar este mesmo arquivo e contabilizar a quantidade de respostas para cada alternativa por questao. Para deixar de gerar uma nova lista, comente a proxima linha no codigo.")
-    criarCSV('atividade11.txt')
-    lista = lerArquivo('atividade11.txt')
+    criarCSV('atividade11_entrada.txt', geraListaCenso(220))
+    lista = lerArquivo('atividade11_entrada.txt')
     print("\nLista com as perguntas e seus respectivos valores:\n", lista)
     print("-----------------------------\n")
-    imprimeQuestionario(calculaRespostas(lista))
+    listaRetorno = imprimeQuestionario(calculaRespostas(lista))
+    print('\n'.join(listaRetorno))
+    criarCSV('atividade11_resultado.txt', listaRetorno)
     return 0
 
 

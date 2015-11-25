@@ -1,0 +1,70 @@
+
+Pergunta de numero 0 ---
+Opcao 0 foi selecionada por 37 pessoas
+Opcao 1 foi selecionada por 38 pessoas
+Opcao 2 foi selecionada por 33 pessoas
+Opcao 3 foi selecionada por 31 pessoas
+Opcao 4 foi selecionada por 81 pessoas
+
+Pergunta de numero 1 ---
+Opcao 0 foi selecionada por 30 pessoas
+Opcao 1 foi selecionada por 34 pessoas
+Opcao 2 foi selecionada por 38 pessoas
+Opcao 3 foi selecionada por 39 pessoas
+Opcao 4 foi selecionada por 79 pessoas
+
+Pergunta de numero 2 ---
+Opcao 0 foi selecionada por 40 pessoas
+Opcao 1 foi selecionada por 45 pessoas
+Opcao 2 foi selecionada por 33 pessoas
+Opcao 3 foi selecionada por 43 pessoas
+Opcao 4 foi selecionada por 59 pessoas
+
+Pergunta de numero 3 ---
+Opcao 0 foi selecionada por 29 pessoas
+Opcao 1 foi selecionada por 38 pessoas
+Opcao 2 foi selecionada por 35 pessoas
+Opcao 3 foi selecionada por 44 pessoas
+Opcao 4 foi selecionada por 74 pessoas
+
+Pergunta de numero 4 ---
+Opcao 0 foi selecionada por 45 pessoas
+Opcao 1 foi selecionada por 33 pessoas
+Opcao 2 foi selecionada por 36 pessoas
+Opcao 3 foi selecionada por 36 pessoas
+Opcao 4 foi selecionada por 70 pessoas
+
+Pergunta de numero 5 ---
+Opcao 0 foi selecionada por 32 pessoas
+Opcao 1 foi selecionada por 49 pessoas
+Opcao 2 foi selecionada por 44 pessoas
+Opcao 3 foi selecionada por 39 pessoas
+Opcao 4 foi selecionada por 56 pessoas
+
+Pergunta de numero 6 ---
+Opcao 0 foi selecionada por 33 pessoas
+Opcao 1 foi selecionada por 40 pessoas
+Opcao 2 foi selecionada por 43 pessoas
+Opcao 3 foi selecionada por 33 pessoas
+Opcao 4 foi selecionada por 71 pessoas
+
+Pergunta de numero 7 ---
+Opcao 0 foi selecionada por 40 pessoas
+Opcao 1 foi selecionada por 37 pessoas
+Opcao 2 foi selecionada por 46 pessoas
+Opcao 3 foi selecionada por 34 pessoas
+Opcao 4 foi selecionada por 63 pessoas
+
+Pergunta de numero 8 ---
+Opcao 0 foi selecionada por 34 pessoas
+Opcao 1 foi selecionada por 37 pessoas
+Opcao 2 foi selecionada por 40 pessoas
+Opcao 3 foi selecionada por 39 pessoas
+Opcao 4 foi selecionada por 70 pessoas
+
+Pergunta de numero 9 ---
+Opcao 0 foi selecionada por 43 pessoas
+Opcao 1 foi selecionada por 38 pessoas
+Opcao 2 foi selecionada por 33 pessoas
+Opcao 3 foi selecionada por 35 pessoas
+Opcao 4 foi selecionada por 71 pessoas
