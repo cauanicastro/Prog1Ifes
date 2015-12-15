@@ -12,14 +12,15 @@ __status__ = "Examination program"
 
 
 def diretorio():
-	caminho = os.getcwd();
+	caminho = os.getcwd()
 	return caminho.replace("\\", "/")
 
 
 def lerArquivo(arquivo):
-	caminho = diretorio();
+	caminho = diretorio()
 	with open( caminho + "/" + arquivo, 'r') as arquivo:
 		return [f.rstrip("\n").split(";") for f in arquivo]
+
 
 def formataLista(lista):
 	nLista = ""
@@ -35,11 +36,13 @@ def formataLista(lista):
 		nLista += aux + "\n"
 	return nLista
 
+
 def imprimeArquivo(arquivo, conteudo):
 	caminho = diretorio()
 	arq = open(caminho + "/" + arquivo, 'w')
 	arq.writelines(conteudo)
 	arq.close()
+
 
 def comparaResposta(r1, r2):
 	if r1 == "I" or r2 == "I":
@@ -47,6 +50,7 @@ def comparaResposta(r1, r2):
 	if (r1 == r2):
 		return 1
 	return 0
+
 
 def processaListas(rapazes, mocas):
 	matrizAfinidade = [[0 for _ in mocas] for _ in rapazes]
@@ -63,11 +67,13 @@ def processaListas(rapazes, mocas):
 	imprimeArquivo("afinidade.txt", formataLista(matrizAfinidade))
 	return matrizAfinidade
 
+
 def main():
 	rapazes = lerArquivo("rapazes.txt")
 	mocas = lerArquivo("mocas.txt")
 	processaListas(rapazes, mocas)
 	return 0
+
 
 if __name__ == '__main__':
 	main()

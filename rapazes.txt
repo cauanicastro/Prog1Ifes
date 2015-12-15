@@ -1,0 +1,7 @@
+N;N;S;N;I;S;S;I;I;N
+S;S;I;I;N;N;N;I;N;N
+S;I;N;N;S;N;N;I;S;N
+I;N;S;N;I;S;N;N;I;N
+S;N;S;N;N;S;N;N;I;I
+N;I;N;N;N;S;N;I;I;I
+N;S;S;I;N;N;S;S;S;N
